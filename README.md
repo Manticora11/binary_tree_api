@@ -7,7 +7,7 @@ Se construyo con FastAPI
 
 1. Debes clonar el repositorio.
 ```bash
-git clone 
+git clone https://github.com/Manticora11/binary_tree_api.git
 ```
 2. Es un proyecto dockerizado, entonces debes construir la imagen.
 ```bash
